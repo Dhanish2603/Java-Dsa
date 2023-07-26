@@ -1,4 +1,4 @@
-package Answers;
+package Day_1;
 import java.util.Scanner;
 
 public class LeapYear_1{

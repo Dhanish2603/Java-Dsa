@@ -1,0 +1,10 @@
+1.Anagram question
+2.reverse number
+3.palindrome
+4.swap numbers
+5.factorial
+6.array minimum
+7.bubble sort
+8.selection sort
+9.insertion sort
+10.binary search
