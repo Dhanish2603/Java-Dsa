@@ -1,0 +1,4 @@
+1.https://leetcode.com/problems/maximum-subarray/description/
+2.https://leetcode.com/problems/contains-duplicate/
+3.https://www.geeksforgeeks.org/chocolate-distribution-problem/
+4.https://leetcode.com/problems/search-in-rotated-sorted-array/description/
