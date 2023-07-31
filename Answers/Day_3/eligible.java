@@ -1,4 +1,4 @@
-// package intro to java_01;
+package Day_3;
 import java.util.*;
 public class eligible {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // package intro to java_01;
-
+package Day_3;
 public class typecasting {
         public static void main(String[] args) {
             int num = (int)(67.32f);
