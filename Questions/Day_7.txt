@@ -1,0 +1,7 @@
+cyclic sort
+https://leetcode.com/problems/missing-number/
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+https://leetcode.com/problems/find-the-duplicate-number/description/
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+https://leetcode.com/problems/set-mismatch/description/ 
+https://leetcode.com/problems/first-missing-positive/
