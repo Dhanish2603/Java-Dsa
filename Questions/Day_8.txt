@@ -1,0 +1,6 @@
+recurring number found
+unique number find using bitwise operator in an array
+base5 number calculate
+number is power of 2 or not
+find bits in binary 
+https://leetcode.com/problems/flipping-an-image/
