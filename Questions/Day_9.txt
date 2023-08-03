@@ -1,0 +1,10 @@
+binary search to find root 
+factors of number in short method
+newton to find sqrt of a number
+seive i.e to find the prime numbers in a particular range
+1 to n and n to 1 print
+product of n to 1
+product of digits
+reverse a number
+count zeros
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/
