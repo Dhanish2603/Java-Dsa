@@ -1,1 +1,8 @@
 check array is sorted using recursion
+linear search using recursion
+removing a letter or word in an string using recursion
+removing or skipping a letter with another letter is that   
+subsequence question for string
+subset question for array
+https://leetcode.com/problems/shuffle-string/description/
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
