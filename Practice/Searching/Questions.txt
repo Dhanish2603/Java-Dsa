@@ -5,3 +5,7 @@ https://leetcode.com/problems/kth-missing-positive-number/description/
 https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 https://leetcode.com/problems/check-if-n-and-its-double-exist/description/
 https://leetcode.com/problems/fair-candy-swap/description/   [good use of binary search]
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
