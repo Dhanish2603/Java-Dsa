@@ -2,8 +2,10 @@ package Practice.Sorting;
 
 public class merge {
 
-    
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
+    public static void main(String[] args) {
+        mergefunction(new int[]{4,3,2,1},4,new int[]{2,3},2);
+    }
+    public static void mergefunction(int[] nums1, int m, int[] nums2, int n) {
         int i =0;
         int j = 0;
         int k = 0;

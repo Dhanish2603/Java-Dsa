@@ -1,8 +1,13 @@
 package Practice.Sorting;
 
 public class maxelement {
-    public int majorityElement(int[] nums) {
+    public static void main(String[] args) {
+        int num = majorityElement(new int[]{1,2,3,4,5});
+        System.out.println(num);
+    }
+    public static int majorityElement(int[] nums) {
         int index = nums[0];
+        System.out.println(index);
     for(int i =0;i<=nums.length/2;i++){
         int count = 0;
         for(int j=i+1;j<=nums.length-1;j++){

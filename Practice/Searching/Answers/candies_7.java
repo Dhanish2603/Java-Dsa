@@ -11,7 +11,7 @@ public class candies_7 {
     
     Arrays.sort(bobSizes);
     
-    int m = aliceSizes.length, n = bobSizes.length;
+    int m = aliceSizes.length;
     for (int i = 0; i < m; i++) {      
       int target = (bobTotal + 2 * aliceSizes[i] - aliceTotal) / 2;
       if (binarySearch(bobSizes, target))

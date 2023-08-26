@@ -13,7 +13,7 @@ public class TwoSum_1{
         int start = 0;
         int end = num.length-1;
         while(start<end){
-            int mid = start + (end-start)/2;
+            // int mid = start + (end-start)/2;
             if(num[start] +num[end] == target){
                 return new int[]{start+1,end+1};
             }

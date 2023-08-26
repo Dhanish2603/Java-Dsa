@@ -14,7 +14,7 @@ public class interval_12 {
 
     public static int[] findRightInterval(int[][] intervals) {
         int n = intervals.length;
-        int m = intervals[0].length;
+        // int m = intervals[0].length;
         
         int arr[] = new int[n];
         for (int i = 0; i < n; i++) {

@@ -58,10 +58,11 @@ public class DLL {
             this.val = val;
         }
 
-        public Node(int val, Node prev, Node next) {
-            this.val = val;
-            this.prev = prev;
-            this.next = next;
-        }
+        // public Node(int val, Node prev, Node next) {
+        //     this.val = val;
+        //     this.prev = prev;
+        //     this.next = next;
+        // }
     }
+    
 }

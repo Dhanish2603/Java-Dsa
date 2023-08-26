@@ -38,6 +38,7 @@ class TicTacToe {
       }
     }
     printBoard(board);
+    scanner.close();
   }
 
   public static boolean haveWon(char[][] board, char player) {

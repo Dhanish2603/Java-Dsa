@@ -1,6 +1,6 @@
 public class zeroMatrix_9 {
     public static void main(String[] args) {
-        int[][] matrix = { { 1, 1, 1 }, { 1, 0, 1 }, { 1, 1, 1 } };
+        // int[][] matrix = { { 1, 1, 1 }, { 1, 0, 1 }, { 1, 1, 1 } };
 
     }
 
