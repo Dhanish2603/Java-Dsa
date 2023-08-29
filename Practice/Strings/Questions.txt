@@ -1,0 +1,9 @@
+https://leetcode.com/problems/goal-parser-interpretation/
+https://leetcode.com/problems/sorting-the-sentence/
+https://leetcode.com/problems/to-lower-case/description/
+https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
+https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/
+https://leetcode.com/problems/robot-return-to-origin/description/
+https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+https://leetcode.com/problems/excel-sheet-column-title/description/
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
