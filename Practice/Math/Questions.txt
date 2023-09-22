@@ -1,0 +1,2 @@
+https://leetcode.com/problems/happy-number/description/
+https://leetcode.com/problems/maximum-product-of-three-numbers/description/
