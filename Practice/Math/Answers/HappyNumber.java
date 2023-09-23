@@ -1,5 +1,5 @@
-package Practice.Math;
-import java.util.LinkedList;
+package Practice.Math.Answers;
+ 
 public class HappyNumber {
 
 

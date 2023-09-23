@@ -1,4 +1,4 @@
-package Practice.Math;
+package Practice.Math.Answers;
 
 import java.util.Arrays;
 

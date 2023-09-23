@@ -1,10 +1,10 @@
 package Practice.Bitwise.Answers;
 
-import java.util.Arrays;
+// import java.util.Arrays;
 
 public class mismatch {
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 2, 4 };
+        // int[] arr = { 1, 2, 2, 4 };
          
      }
 
