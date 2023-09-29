@@ -1,4 +1,4 @@
-package Practice.Stack_Queues.Answers;
+package Practice.LinkedList.Answers;
 
 public class intersection {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

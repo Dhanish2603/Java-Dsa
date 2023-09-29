@@ -1,5 +1,5 @@
-package Practice.Stack_Queues.Answers;
-
+ 
+package Practice.LinkedList.Answers;
 public class ListNode {
 
     int val;

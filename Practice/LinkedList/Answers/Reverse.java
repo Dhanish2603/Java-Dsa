@@ -1,6 +1,6 @@
-package Practice.Stack_Queues.Answers;
+package Practice.LinkedList.Answers;
 
-import java.util.LinkedList;
+// import java.util.LinkedList;
 
 public class Reverse {
     // class Solution {
