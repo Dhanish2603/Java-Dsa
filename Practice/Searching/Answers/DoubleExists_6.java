@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class DoubleExists_6 {
     public boolean checkIfExist(int[] arr) {
         int n = arr.length;

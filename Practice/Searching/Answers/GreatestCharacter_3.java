@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class GreatestCharacter_3 {
     public static void main(String[] args) {
         char ch[] = { 'c', 'f', 'j' };

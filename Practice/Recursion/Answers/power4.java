@@ -1,3 +1,4 @@
+package Practice.Recursion.Answers;
 public class power4 {
     class Solution {
         public boolean isPowerOfFour(int n) {

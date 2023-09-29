@@ -1,5 +1,5 @@
 // package Practice.Recursion.Answers;
-
+package Practice.Recursion.Answers;
 public class reverseString {
     class Solution {
         public void reverseString(char[] s) {

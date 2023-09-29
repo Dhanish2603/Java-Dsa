@@ -1,3 +1,4 @@
+package Practice.Recursion.Answers;
 public class power3 {
     class Solution {
         public boolean isPowerOfThree(int n) {                        

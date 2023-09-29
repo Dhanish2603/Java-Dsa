@@ -1,3 +1,4 @@
+package Practice.Arrays.Answers;
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int []arr = new int[nums.length*2];

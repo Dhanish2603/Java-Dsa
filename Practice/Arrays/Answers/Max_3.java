@@ -1,3 +1,4 @@
+package Practice.Arrays.Answers;
 public class Max_3 {
     class Solution {
         public int maximumWealth(int[][] accounts) {

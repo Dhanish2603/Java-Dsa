@@ -1,5 +1,4 @@
-package Answers;
-// package Practice.Sorting;
+package Practice.Sorting.Answers;
 
 public class maxelement {
     public static void main(String[] args) {

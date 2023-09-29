@@ -1,3 +1,4 @@
+package Practice.Arrays.Answers;
 import java.util.Arrays;
 
 public class product_8 {

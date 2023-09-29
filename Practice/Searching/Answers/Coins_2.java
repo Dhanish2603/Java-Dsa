@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class Coins_2 {
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Practice.Arrays.Answers;
 public class sum1d_2 {
     class Solution {
         public int[] runningSum(int[] nums) {

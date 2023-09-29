@@ -1,3 +1,4 @@
+package Practice.Searching.Answers;
 import java.util.Arrays;
 
 public class candies_7 {

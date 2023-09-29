@@ -1,5 +1,5 @@
-package Answers;
-// package Practice.Sorting;
+package Practice.Sorting.Answers;
+
 
 import java.util.ArrayList;
 import java.util.List;

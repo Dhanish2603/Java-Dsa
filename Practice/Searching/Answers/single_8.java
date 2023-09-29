@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class single_8{
     public int singleNonDuplicate(int[] nums) {
         int left = 0, right = nums.length - 1;

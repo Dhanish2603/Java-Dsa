@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 import java.util.Arrays;
 
 public class interval_12 {

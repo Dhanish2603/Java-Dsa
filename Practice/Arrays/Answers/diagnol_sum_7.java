@@ -1,3 +1,4 @@
+package Practice.Arrays.Answers;
 public class diagnol_sum_7 {
     public int diagonalSum(int[][] mat) {
         int row = mat.length;

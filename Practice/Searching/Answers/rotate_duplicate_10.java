@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class rotate_duplicate_10 {
     class Solution {
         public boolean search(int[] nums, int target) {

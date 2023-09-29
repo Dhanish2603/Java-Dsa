@@ -21,7 +21,7 @@ public class Demo {
 
         System.out.println(head.toString());
 
-        System.out.println(head.equals(11));
+        // System.out.println(head.equals(11));
 
         System.out.println(head.contains(3));
         head.clear();

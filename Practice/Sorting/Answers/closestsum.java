@@ -1,4 +1,4 @@
-package Answers;
+package Practice.Sorting.Answers;
 import java.util.Arrays;
 
 public class closestsum {

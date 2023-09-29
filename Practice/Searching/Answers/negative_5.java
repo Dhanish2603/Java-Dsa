@@ -1,3 +1,5 @@
+package Practice.Searching.Answers;
+
 public class negative_5 {
 
     public static void main(String[] args) {

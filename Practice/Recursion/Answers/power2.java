@@ -1,3 +1,4 @@
+package Practice.Recursion.Answers;
 public class power2 {
     class Solution {
         public boolean isPowerOfTwo(int n) {
