@@ -1,0 +1,16 @@
+package Practice.Trees.Answers;
+
+public class HasPathSum {
+    public boolean hasPathSum(TreeNode root, int targetSum) {
+        return helper(root, 0, targetSum);
+    }
+
+    private boolean helper(TreeNode root, int currSum, int targetSum){
+        if(root == null) return false;
+
+        if(root.left == null && root.right == null) return currSum + root.val == targetSum;
+
+        return helper(root.left, currSum + root.val, targetSum) ||
+                    helper(root.right, currSum + root.val, targetSum);
+    }
+}
