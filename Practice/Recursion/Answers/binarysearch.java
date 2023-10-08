@@ -12,7 +12,7 @@ public class binarysearch {
         int ans = findTarget(arr,target,0,arr.length-1);
         System.out.println(ans);
     }
-
+//search method
     private static int findTarget(int[] arr, int target, int s, int e) {
         int mid = s+(e-s)/2;
         if(s>e){
