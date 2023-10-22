@@ -6,7 +6,7 @@ public class binarysearch {
         int [] arr = {-1,0,3,5,9,12};
         search(arr,9);
     }
-
+     
     public static void search(int[] arr, int target) {
         
         int ans = findTarget(arr,target,0,arr.length-1);
