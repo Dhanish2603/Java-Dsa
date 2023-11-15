@@ -3,7 +3,7 @@ public class BinaryAdd{
   public static void main(String[] args) {
    String str =  addBinary("111","10");
    System.out.println(str);
-
+    
   }
      
   public static String addBinary(String a, String b) 
